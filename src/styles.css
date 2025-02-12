@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  .input-group {
+    margin-bottom: 10px;
+  }
+  #cartList {
+    list-style-type: none;
+    padding: 0;
+  }
+  #cartList li {
+    margin: 5px 0;
+  }
